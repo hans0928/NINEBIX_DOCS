@@ -1,0 +1,14 @@
+# General
+.DS_Store
+*.log
+logs/
+dist/
+build/
+
+# Node / Vite
+node_modules/
+.vite/
+
+# Env
+.env
+.env.*
