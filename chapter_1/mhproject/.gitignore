@@ -1,0 +1,15 @@
+# common
+.DS_Store
+*.log
+logs/
+dist/
+build/
+
+# Node / Vite
+node_modules/
+.vite/
+
+# env
+.env
+.env.*
+!.env.example
